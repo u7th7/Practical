@@ -1,0 +1,4 @@
+name: Practical
+version: '1.0'
+main: org.revere.practical.Practical
+api-version: '1.18'
