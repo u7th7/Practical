@@ -1,4 +1,4 @@
-package org.revere.practical.command;
+package me.venyo.practical.command;
 
 /**
  * @author Venyo

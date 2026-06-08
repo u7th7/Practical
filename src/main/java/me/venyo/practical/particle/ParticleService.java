@@ -1,8 +1,7 @@
-package org.revere.practical.particle;
+package me.venyo.practical.particle;
 
 import lombok.Getter;
-import org.revere.practical.Practical;
-import org.revere.practical.PracticalConstants;
+import me.venyo.practical.PracticalConstants;
 
 import java.util.Map;
 import java.util.UUID;

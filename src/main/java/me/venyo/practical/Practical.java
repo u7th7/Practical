@@ -1,11 +1,11 @@
-package org.revere.practical;
+package me.venyo.practical;
 
 import com.comphenix.protocol.ProtocolLibrary;
 import lombok.Getter;
 import org.bukkit.plugin.java.JavaPlugin;
-import org.revere.practical.combat.CombatListener;
-import org.revere.practical.particle.ParticleService;
-import org.revere.practical.particle.listener.ParticleListener;
+import me.venyo.practical.combat.CombatListener;
+import me.venyo.practical.particle.ParticleService;
+import me.venyo.practical.particle.listener.ParticleListener;
 
 @Getter
 public final class Practical extends JavaPlugin {

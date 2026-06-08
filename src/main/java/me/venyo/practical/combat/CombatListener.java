@@ -1,10 +1,10 @@
-package org.revere.practical.combat;
+package me.venyo.practical.combat;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityDamageByEntityEvent;
-import org.revere.practical.Practical;
+import me.venyo.practical.Practical;
 
 /**
  * @author Venyo

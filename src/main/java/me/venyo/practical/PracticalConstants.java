@@ -1,4 +1,4 @@
-package org.revere.practical;
+package me.venyo.practical;
 
 import lombok.experimental.UtilityClass;
 

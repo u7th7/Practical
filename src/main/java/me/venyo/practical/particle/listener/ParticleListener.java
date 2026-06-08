@@ -1,4 +1,4 @@
-package org.revere.practical.particle.listener;
+package me.venyo.practical.particle.listener;
 
 import com.comphenix.protocol.PacketType;
 import com.comphenix.protocol.events.ListenerPriority;
@@ -6,8 +6,8 @@ import com.comphenix.protocol.events.PacketAdapter;
 import com.comphenix.protocol.events.PacketEvent;
 import com.comphenix.protocol.wrappers.EnumWrappers;
 import org.bukkit.entity.Player;
-import org.revere.practical.Practical;
-import org.revere.practical.PracticalConstants;
+import me.venyo.practical.Practical;
+import me.venyo.practical.PracticalConstants;
 
 /**
  * @author Venyo

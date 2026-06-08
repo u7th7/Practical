@@ -1,5 +1,5 @@
 name: Practical
 version: '1.0'
-main: org.revere.practical.Practical
+main: me.venyo.practical.Practical
 api-version: '1.8.8'
 depend: [ProtocolLib]
