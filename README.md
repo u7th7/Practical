@@ -70,5 +70,3 @@ If you find any, please report them on the GitHub repository.
 ## License
 
 All rights reserved.
-
-```
