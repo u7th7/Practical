@@ -4,7 +4,7 @@ Practical is a simple Minecraft plugin that blocks attack particle packets.
 
 In vanilla Minecraft, when a player gets hit, particles can appear on their screen. Practical blocks those packets to give players a cleaner PvP experience.
 
-This works similarly to how **EstaLand** does it.
+This works similarly to how **Esta land** does it.
 
 ## Features
 
