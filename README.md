@@ -38,6 +38,12 @@ There are currently:
 * No permissions
 * No API
 
+## Note
+
+This plugin is still in development, so expect issues and bugs.
+
+If you find any, please report them on the GitHub repository.
+
 ## Todo
 
 * Add commands
